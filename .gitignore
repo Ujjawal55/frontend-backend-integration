@@ -1,0 +1,12 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Node.js dependencies
+node_modules/
+dist/
+
+# Ignore logs and environment files
+*.log
+.backend/
+
